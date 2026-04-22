@@ -1,0 +1,18 @@
+[
+  {
+    "nombre": "Marc-André ter Stegen",
+    "dorsal": 1,
+    "posicion": "Portero",
+    "nacionalidad": "Alemán",
+    "edad": 32,
+    "imagenUrl": "https://raw.githubusercontent.com/Juander05/assets_app_barca/main/terstegen.jpg"
+  },
+  {
+    "nombre": "Lamine Yamal",
+    "dorsal": 19,
+    "posicion": "Delantero",
+    "nacionalidad": "Español",
+    "edad": 17,
+    "imagenUrl": "https://raw.githubusercontent.com/Juander05/assets_app_barca/main/yamal.jpg"
+  }
+]
